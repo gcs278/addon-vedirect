@@ -1,3 +1,5 @@
-# Van-Modem-Status
+# VE.Direct Addon
 
-This addon allows provides mqtt messages for the Victron BMV 702 for Grant's Van
+This addon allows provides MQTT Sensors for Victron VE.Direct Devices (BMV 702, BMV 712)
+
+UNDER DEVELOPMENT!

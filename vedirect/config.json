@@ -1,8 +1,8 @@
 {
-  "name": "vedirect",
+  "name": "Victron VE.Direct",
   "version": "1.0.1",
   "slug": "vedirect",
-  "description": "Victron vedirect Mqtt Service",
+  "description": "Victron VE.Direct MQTT Sensor Addon",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
   "startup": "system",
   "boot": "auto",
